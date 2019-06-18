@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: pylanarian
+Version: 0.1.0
+Summary: An animated graph and real time plotting package.
+Home-page: http://github.com/pomcho555/pylanarian
+Author: pomcho555
+Author-email: UNKNOWN
+License: MIT
+Description: # pylanarian
+        
+        A plotting package for real time and animation.
+        
+        ## Prequisite
+        - python3.5+
+        - matplotlib
+        
+Platform: UNKNOWN
