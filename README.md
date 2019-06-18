@@ -3,7 +3,7 @@
 A plotting package for real time and animation.
 It is EASY to visualize your IoT sensor data.
 It could be multi-plot using subplot.
-It is up to 16th graphs.
+It works up to 16th graphs.
 
 ![demo](https://raw.github.com/wiki/pomcho555/pylanarian/images/graph_animation.gif)
 
