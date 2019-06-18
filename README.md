@@ -15,7 +15,7 @@ It is up to 16th graphs.
 `pip install -e .` 
 
 ## Tutorial
-import modules
+import modules   
 `from pylanarian import SequentialGraph`   
 `from pylanarian import GraphManager`   
 
@@ -27,10 +27,10 @@ Also instantiate a second graph.
 2.   
 Then bind graphs to <span style="color: red; ">GraphManager</span>  
 `GM = GraphManager(g1, g2)`   
-Also, you could write list type.
+Also, you could write list type.   
 `GM = GraphManager(*[g1, g2])` 
 3.   
-Initilize plot configure.
+Initilize plot configure.   
 `GM.init_plot()`   
 4.   
 Put data into GM(before this you prepare list type data)   
