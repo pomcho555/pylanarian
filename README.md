@@ -41,9 +41,9 @@ Put data into GM(before this you prepare list type data)
 5.   
 `GM.pause(0.1)`   
 
-You can demonstorate sample script on /samples/ directory.
+You can demonstorate sample script on /samples/ directory.   
 `python sample.py`   
-Real time plot version is:
+Real time plot version is:   
 `python realtime_sample.py`   
 
 ## License
