@@ -1,3 +1,4 @@
+https://img.shields.io/github/license/pomcho555/pylanarian
 # pylanarian
 
 A plotting package for real time and animation.
